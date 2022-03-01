@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of the King, with some observations upon the two Houses: by a true son of the Church of England, and a lover of his countries liberty.</title>
+            <author>Waller, Edmund, 1606-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97037</idno>
+            <idno type="STC">Wing W533C</idno>
+            <idno type="STC">Thomason E118_3</idno>
+            <idno type="STC">ESTC R22675</idno>
+            <idno type="EEBO-CITATION">99871814</idno>
+            <idno type="PROQUEST">99871814</idno>
+            <idno type="VID">124231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124231)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of the King, with some observations upon the two Houses: by a true son of the Church of England, and a lover of his countries liberty.</title>
+                  <author>Waller, Edmund, 1606-1687.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Anno Domini, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Septemb the 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124231:1" rendition="simple:additions"/>
+            <p>A VINDICATION OF THE KING, WITH Some OBSERVATIONS upon the TWO HOVSES: By a True Son of the Church of ENG<g ref="char:EOLhyphen"/>LAND, and a Lover of his Coun<g ref="char:EOLhyphen"/>tries Liberty.</p>
+            <p>
+               <hi>London,</hi> Printed <hi>Anno Domini,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:124231:2"/>
+            <pb facs="tcp:124231:2"/>
+            <head>A Vindication of the <hi>King,</hi> with ſome Obſervati<g ref="char:EOLhyphen"/>ons upon the two Houſes, by a true Son of the Church of <hi>England,</hi> and a Lover of his Countries Liberty.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>I Shall not be curious to ſatisfie the Reaſon of any prepoſeſt opinion, yet ſince the Times hath given an open Preſſe to clear every imagination which is not ſtifled in this Dampe; I have endeavoured to contract my own Meditations in a narrow roome; and rather expoſe them to the cenſure of the moſt judi<g ref="char:EOLhyphen"/>cious, then reſt ſatisfied alone, and admit this cloudy ſur<g ref="char:EOLhyphen"/>face to overwhelme ſo Vaſt a Body.</p>
+            <p>I confeſſe it was no mean part of my happineſſe in our dangerous extreams, to hope for a happy Union by that Soveraign medicine of a fading State, a Parliament, and knowing the admirable affection of our gracious Sove<g ref="char:EOLhyphen"/>raigne to the peace and quiet of the Kingdome, though it was His unſpeakable misfortune, never to know the mi<g ref="char:EOLhyphen"/>ſery of the People, till their diſcontents were grown to that head, they became almoſt (if not altogether) uncura<g ref="char:EOLhyphen"/>ble, by thoſe unreaſonable and illegall Monopolies, ex<g ref="char:EOLhyphen"/>acted by ſome ill affected agents, conducing little to his advantage, but to the furthering of their ambition, who notwithſtanding, could as eaſily deſert him in hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> miſery, as before be the reddy Inſtruments to importune him to this miſchiefe, upon preſence of a Legall Anthority, which who knowes not a Prince, may be ſoon miſtaken
+<pb n="2" facs="tcp:124231:3"/>in, ſince none can be ſo ſilly, as to beleeve him a ſtudied Lawyer: Yet that this ſhould expoſe us to ſo great an ad<g ref="char:EOLhyphen"/>venture, as not onely to diveſt him of this ſuſpected ar<g ref="char:EOLhyphen"/>bitrary power, but to confer an abſolute Government to any whatſoever, renders me no other action then the Poets,</p>
+            <q>Incidit in Syllam cupiens vitare caribdim.</q>
+            <p>But if you pleaſe to take the true State of the buſi<g ref="char:EOLhyphen"/>neſſe, let your Impartial Judgement confer with your Rea<g ref="char:EOLhyphen"/>ſon, upon theſe few notorious truths. What has the King denied which concern our Liberty, and are the undoub<g ref="char:EOLhyphen"/>ted ſecurities of our happineſſe, under the regiment of a Juſt and unqueſtionable Monarchy?</p>
+            <p>Are not our Rights and Properties already eſtabliſht this Parliament, by ſuch acts of Grace, as could never finde Preſidents from His Anceſtors: beſides the utter extirpation of Shipmony, Monopolies, upon what pre<g ref="char:EOLhyphen"/>tence ſoever, thoſe arbitrary Courts of Juſtice, High Commiſſion, Star-Chamber, Marſhalſeas, &amp;c. Has He not importuned the ſetling of Religion in his purity, and that there might be a Law, to ſecure the tender Con<g ref="char:EOLhyphen"/>ſciences of thoſe who will not agree the Ceremonies. Are not the taking away theſe, ſufficient ground to de<g ref="char:EOLhyphen"/>ſolve our Jealouſies if ever we meant to be ſatisfied. As for their fears, I wiſh we had as little reaſon to ſuſpect the ſom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, as we have the King, who is ſo clearly di<g ref="char:EOLhyphen"/>veſted of any Power, to make good the leaſt Injuſtice, that it's too great a hazard on His part to adventvre what our Conſciences enforce us to make good for Him on our part: and the conſervation of theſe are ſo atteſted by Him (in the Word of a King) with ſuch unuſuall ex<g ref="char:EOLhyphen"/>preſſions, that if they came from a Stranger, (I ſuſpected not an Infidell) I was bound to beleeve in Charity? Wit<g ref="char:EOLhyphen"/>neſſe thoſe ſerious aſſeverations, <hi>God ſo deale with Me
+<pb n="3" facs="tcp:124231:3"/>and my Children, as I intend to conſerve my Parliament in it's Priviledges, the Rights of the Subject, and the true profeſt Proteſtant Religion, God ſo proſper me in what I take in Hand.</hi>
+            </p>
+            <p>Is there yet a further way to eſtabliſh them, whereby they may be ſo ſecure, that a violation may ſeem impoſ<g ref="char:EOLhyphen"/>ſible, without the ſubverſion of the very Letter of the Law: Why is it not propos'd if it be no Invaſion of that Juſt Prerogative, was never denied His Anceſtors? and what he hath deſerved of us, that he may not be as far truſted, is as hard to Object as eaſily anſwered. If then we muſt needs agree that there being nothing ſo clear, why ſhould any ſubtle pretences, hinder our deſired ac<g ref="char:EOLhyphen"/>commodation, unleſſe there be that intend the alteration of our Government; and how inconſiſtant that may prove to a People already managed, under the united Order of a vertuous King, dayly experience offers it too eaſie of conjecture. Yet for our better ſatisfaction, lets weigh the amends we are like to make our ſelves, from theſe few Inconveniences, amongſt the thouſands which dayly ex<g ref="char:EOLhyphen"/>poſe themſelves to our view.</p>
+            <p n="1">1. The unlimited power of the two Houſes have al<g ref="char:EOLhyphen"/>ready aſſumed into their own hands a formall Ordinance countermanding, ſuſpending, nay, creating Acts of Parli<g ref="char:EOLhyphen"/>ament, though not in the name of Acts, yet in the power of Acts, wherby both King and People are obliged to obey; how to diſtinguiſh this Ordinance from an Act of State, I am not well ſatisfied: yet I have heard it call'd Treaſon in one of their Members, for this compariſon, though with that caucious proviſoe, That it ſhould be no leading caſe to future ages for Judges to imitate. Is this the ſecurity of our undoubted Rights we have ſo long en<g ref="char:EOLhyphen"/>deavoured: who carries not now his life in his hand, man<g ref="char:EOLhyphen"/>nag'd
+<pb facs="tcp:124231:4"/>by an exact power of a bare Vote, which if any con<g ref="char:EOLhyphen"/>tradicts, muſt ſuffer under the name of a malignant par<g ref="char:EOLhyphen"/>ty, though of their own Members, and not proceeded a<g ref="char:EOLhyphen"/>gainſt by the Juſtice of any precedent Acts, but condem<g ref="char:EOLhyphen"/>ned by the Votes of the preſent Seſſion; and if this be not an abſolute ſubverſion of the Rights of Parliament, and deſtructive to the fundamentall Lawes of our King<g ref="char:EOLhyphen"/>dom (wherein our Liberty conſiſt) I would fain be ſa<g ref="char:EOLhyphen"/>tisfied what is: for 'tis moſt apparant to whoſoever exa<g ref="char:EOLhyphen"/>mines their ordinary proceedings; we have no Law left, but what ſerves their turn; and if that be defective to puniſh thoſe they pleaſe to call Delinquents, their Legiſlative Ordinance can as well ſupply that defect, as it could make that obnoxious, which till this Parliament no Man could ever call a fault.</p>
+            <p n="2">2. This continuing Power of the two Houſes, which if they had had a mind ſhould ever be remitted, they would have either expreſſed it in their firſt demand, and limitted it to a certain time, wherein they might have compleatly qualified the diſquiet countenance of a trou<g ref="char:EOLhyphen"/>bled Eſtate; or ſince have endeavoured ſome Remon<g ref="char:EOLhyphen"/>ſtrance for our ſatisfaction in that particular: For I would fain be anſwered, Firſt, If they fit while they liſt, and paſſe what they liſt, whether they have nor (during their pleaſure) ſubverted our Monarchy by their demo<g ref="char:EOLhyphen"/>craſie, and Inveſted themſelves of a power more Arbitra<g ref="char:EOLhyphen"/>ry, then the Monarchicall Government could pretend to, that having his limitations and Rules of Law, which the Judges are to anſwer (if they miſtake) or thoſe that ad<g ref="char:EOLhyphen"/>viſe the King; their democracy having no bounds, be but a thing of Yeſterday, and which as yet we cannot under<g ref="char:EOLhyphen"/>ſtand, aſſuming to themſelves the ſole power to Judge of our dangers, and propoſe ſuch remedy, as may anſwer their pretences.</p>
+            <pb facs="tcp:124231:4"/>
+            <p n="2">2. How every conſciencious Man can diſpence with that ſacred Oath of Allegiauce, wherein He cals God to Witneſſe for the Vindication of His Princes Juſt Pre<g ref="char:EOLhyphen"/>rogative; and their Proteſtation to maintain an abſolute and unlimired power in the two Houſes, wreſted to thoſe Ordinances expreſſely inhibited by His Majeſtis ſpeciall commands: in my underſtanding it is to no other pur<g ref="char:EOLhyphen"/>poſe, then to leade us into a Maze, where, when we are loſt by our m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſunderſtanding (which muſt neceſſarily be the principall of our ſubverſion, They will offer us a Clue, ſhall eirher leade us to their premeditated deſignes, whereby of neceſſity they will become our Maſters, or to an inevitable Ruine, before we know the reaſon of our Fears and Jealouſies, being the old Rule they ſo often en<g ref="char:EOLhyphen"/>veighed againſt, Firſt to trouble a State, then to ſubvert the Government. Let it not be objected now, That I am againſt Parliaments, for (God knowes) I am for them, and as zealous for my Country as any Man that lives: But in my opinion, the beſt way to ſecure our Liberty had been, That our Members of both Houſes might continue ſubject ſtill, lyable to the Regiment of thoſe Laws which ſhall be enacted by them, wherein they will have a care of ſecuring their own Eſtates for future, as well as ours, which was certainly the intentions of our well adviſed Anceſtors, in expoſing ſo great a truſt into their hands, when the Prince called for their advice in matters of greateſt concernment; but by this continued Seſſion, they not onely are Inveſted of an abſolute power, but are able to make themſelves amends at leiſure for thoſe monies exhauſted out of their Eſtates, while we groan under the inſupportable burthen of theirs (as they call them) Le<g ref="char:EOLhyphen"/>gall Taxes; and thus they may well be careleſſe what
+<pb n="6" facs="tcp:124231:5"/>Laws are paſt, never intending to be obſervers, but Lords of what they make.</p>
+            <p n="3">3. Who are theſe pretended reformers of the Com<g ref="char:EOLhyphen"/>monwealth, but the very inſtruments who were the fa<g ref="char:EOLhyphen"/>vourites during our oppreſſion; I need not name them to any, who has once attended the Epidemicke trouble of our age, and what unheard of Converſion we can make of their lives, whereby ſuch a Confidence ſhould be re<g ref="char:EOLhyphen"/>poſed in them, as to deveſt ſo Religious and Juſt a Prince of his unqueſtionable Rights and Prerogatives, and con<g ref="char:EOLhyphen"/>fer ſuch an unlimitted power ſo readily upon them, if we return our former ſenſes, renders me amized; 'tis not amiſſe to ruminate ſome words his Majeſty uſed in his own vindication at <hi>Newmarket,</hi> My Lords lay your hands on your hearts who were the Contrivers of theſe Illegall taxes, wherewith you have ſo incenſed my peo<g ref="char:EOLhyphen"/>ple, to whoſe advantage were theſe impoſitions levied, are my Exchequers at all larger, or did you not rather conduce to your peculiar benefit, who were the onely perſwaders of them, that you have now repayd mee with condigne thanks. Thoſe favourites being content to be the Cauſers, though not Companions of their Princes miſ-fortunes being like Crows upon a Carkas that have no ſooner bared the bones, but they are flown, are we not yet ſenſible the rules of policy, not of ho<g ref="char:EOLhyphen"/>neſty, to ſecure their lives and fortunes, not their Con<g ref="char:EOLhyphen"/>ſciences, expoſed you to this politike, not publike ſervice, and had you not in ſo exact a courſe ſerved your turns of theſe Loyall pretenders, they had been as lyable to the extremity of Juſtice as the greateſt Delinquents that underwent the moſt heavy ſenſures; and undoubtedly had had their deſerved ſhares, which would have given a
+<pb n="7" facs="tcp:124231:5"/>better Colour to their upright proceedings as they would have you ſo believed. If they had impartially di<g ref="char:EOLhyphen"/>ſtributed Juſtice amongſt the then Malignant party: but now that we ſhould be ſo ſtupid as to be circum<g ref="char:EOLhyphen"/>vented with any pretences whatſoever, which out-ſtrip the Eſſentiall rules of Government or Reaſon, and con<g ref="char:EOLhyphen"/>fide in the poſitive Vote of an ambitious party for ought we know, would admit my perſwader to be a mad-man that could allow that in his opinion, but make them what you will, ſuppoſe them to be the moſt reall and upright men in their lives and conſciences in the whole world: They are but the Counſell of the King and Kingdome, not their Commanders, for the health of our State is admirably ballanced if that have but his due proportion; The Parliament conſisting of three bodies, the King, the Lords, and Commons, ſo that if two ſhould be diſtructive and the third remaine ſound during thoſe Lawes already in force, there can be no danger to our Kingdome, but if either of the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o can paſſe at their pleaſure what they will, the third <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then of neceſſi<g ref="char:EOLhyphen"/>ty ſtand for a Cypher, for conſenting or diſagreeing is then of equall value, and in my opinion yt's a profi<g ref="char:EOLhyphen"/>dent of too great an adventure, for ſuppoſe the King and the Major pure of the Lords ſhould agree an Ordinance or Law, we ſhould thinke extremly prejudiciall to the Liberty of the Subject, our Commons ſhould be conclu<g ref="char:EOLhyphen"/>ded peremptorily againſt their Conſents: I heard an act not long ſince vouched in preſident that had been ta<g ref="char:EOLhyphen"/>tified againſt the Conſent of the Lords Spirituall, where they declared <hi>nec poſſumus nee volumus conſentir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and this ſo rare we could not find a ſecond. At the <hi>Parliament</hi> at <hi>Oxford</hi> in 17. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. 3. when the Lords were not there
+<pb n="8" facs="tcp:124231:6"/>preſent, they were faine to diſolve the Houſe without paſſing one Act, confirming my firſt propoſition, That the conſent of two bodies are not of force to make Us Laws without the third, much leſſe conclude; the King who is not onely the ſupream head, but the very ſoule, whoſe power gives life to their actions, when their body is once diſſolved, beſides how incoherent is it, with that authority committed to them, ſor if the Parliament (which are onely His great Councell) offer him a Bill, which He is bound to agree, it was more then ever His Anceſtors were; and of their Counſellors, it muſt ne<g ref="char:EOLhyphen"/>ceſſarily follow, they are His Commanders.</p>
+            <p>We have a Maxime with the Subject, <hi>Modus &amp; con<g ref="char:EOLhyphen"/>ventio vincunt legem.</hi> In former ages and ever ſince Par<g ref="char:EOLhyphen"/>liaments vvere in uſe, <hi>Le Roy ſ'aviſera</hi> vvere ſufficient authority to make a Bill of both Houſes unwarrantable; and how the King has loſt that Right, or vvhat new Laws are found out diſtructive to that Prerogative, I ne<g ref="char:EOLhyphen"/>ver yet read, nor ever ſhall, unleſſe ſome ſuch new Ordi<g ref="char:EOLhyphen"/>nance or bare Votes can pretend to ſuch an unwarranted power (whereof there was never yet ſound a Preſident) which can have no other operation upon my underſtan<g ref="char:EOLhyphen"/>ding, then, That the Votes of the preſent Members which can at their pleaſures diſpoſe the undoubted Priviledges of the Crown (by a Law recorded onely in their owne breaſts) and given out to us under the guilded Title of the Peoples Liberty, when indeed they are but Golden Chaynes in ſtead of Bulruſhes, and (reſerv'd till occaſion ſhall make it too appitant) may finde out a Law of equall force to diſpoſe the Crown, when they ſhall ſo far debilitate the Prince as he ſhall be no way able to make reſiſtance; for when the ſupporters are not onely
+<pb n="9" facs="tcp:124231:6"/>undermined, but clearly taken away; by what reaſon can we imagine the Structure may continue firme, that you may be ſure we will not unjuſtly charge them, be pleaſed to obſerve with me their Orders in theſe few inſtances.</p>
+            <list>
+               <item>1. Their countenancing theſe unwarranted Acts, either by a ſeditious huddle of indigent people, and ſo procuring Petitions to neceſſitate theſe premeditated proceedings, or leavying an abſolute War againſt the King; ſecuring us upon no other reaſons then that they are the repreſent ative body of the Kingdom, and there<g ref="char:EOLhyphen"/>fore our Obedience, rather to be expected, then our Rea<g ref="char:EOLhyphen"/>ſon ſatisfied, which indeed is true enough, if they procee<g ref="char:EOLhyphen"/>ded upon that warranted rule to which no man could refuſe obſervance, or being intruſted by us with the power of preceding Parliaments; that they would purſue points of ſo high concernment, with the ſame mature reaſons and deliberations, as they have done, and and then they might well expect our readineſſe to ſecure their actions: But ſuppoſe we elect one that ſhould ſpeak or endeavour to enact Treaſon, does our election bid us to ſecure him, or will future Parliaments blame us here<g ref="char:EOLhyphen"/>after for giving up ſo great a Delinquent to the Juſtice of the Lawes: dare we countenance their Intentions, who hath fetcht Preſidents from the weakeſt Princes, (nay, and go beyond them to) to the diſadvantage of as able a Prince as ever yet held the Scepter, nay, and offer their ſuppoſitions to the Vulgar, If the Prince be a foole, a childe, &amp;c. ought he not to be governed by his Counſell, though it be againſt his conſent, if it ſtand with the publique benefit: what Implication to make of this I underſtand not, but I am ſure that it was none
+<pb n="10" facs="tcp:124231:7"/>of our meaning when we gave our voice in the Elections Can an Ordinance of Parliament without the conſent of the King renew a repealed Act, and with ſo bold a countenance trample upon the heeles of that Parliament in <hi>Richard</hi> the ſeconds time, and this very repealed Act renewed this Parliament, be within one ſtep of it, wherein the Parliament took the Crown and gave it to the then Earl of <hi>Bullingbrook,</hi> which was the reaſon of ſo much Blood in our Civill Wars, and was not well ſettled till of late Years? And can we blame the King if He deſires ſhelter from ſuch a ſtorme: If it be their intentions, ſure one <hi>Bullingbrook</hi> will not ſerve their turnes, ſince there hath been equall ſhares in this ſo great an adventure. And to vouch the Oath of this Uſurper <hi>H.</hi> 4. which came in at their benevolence to a Prince of an unqueſtionable Title, and never offered before or ſince to any Engliſh King that ever we read or heard of (out with it's limitations) is ſo far from their Loyall preten<g ref="char:EOLhyphen"/>ces, that they are rather to be believed ſtudied miſchiefes and endeavours, to embroyle the Kingdome in a Civill War.</item>
+               <item>2. To diſingage all that would out of affection or love, intereſt themſelves to ſecure the Kings Perſon, and Dignity (it being too apparant to any ordinary under<g ref="char:EOLhyphen"/>ſtanding) that ſuch proceedings were never warranted by any precidents of preceding Parliaments, or thoſe Laws they call fundamentall in our Kingdom, they ſcandalize ſuch with the name of malignant Perſons, whereby His Meniall Servants either abſolutely refus'd, or durſt not adventure His attendance, and countenance this medley in ſuch a ſenſe, that the King himſelfe is perpetually traduc'd under this obſtruſe Dialact; which though they
+<pb n="11" facs="tcp:124231:7"/>dare not put down in plain Engliſh, for feare the moſt violent amongſt them ſhould be aſhamed to own it; yet by ſuch an implication, as the plaineſt capacity cannot but bluſh, and with admiration wonder, whereto this may tend, I would faine be ſatisfied, what theſe might not do, when they had once maſtered theſe their malig<g ref="char:EOLhyphen"/>nants; For if you will give us as much reaſon as the Ants, you muſt believe a Winter may come, as well as think a Summer is come: durſt any Man then oppoſe their proceedings, when they have reduced all to their own Termes, doe you not ſpeake your ſelves the very Law, and we as we ought to yeeld no appeale from Par<g ref="char:EOLhyphen"/>liament, being the higheſt Court in the Kingdome; yet in this ſenſe as the King is a part of it (for otherwiſe I underſtand not by what right) it has the preheminence of thoſe they call the Kings Courts, being both conveen'd by the ſame Royall Authority.</item>
+               <item>3. The diſcountenancing any Petitions whatſoever (wherein we deſire to interpoſe our advice for acommo<g ref="char:EOLhyphen"/>dation or otherwiſe) though never ſo agreeing with our Laws, unleſſe they ſtand with the ſence of their party, as if all our Wiſedom were ſhut up in ſo narrow li<g ref="char:EOLhyphen"/>mits, and theſe the onely Men in <hi>England</hi> infallible; yet give me leave to aver, That to the number of almoſt two hundred approved able Men, whoſe warranted Judge<g ref="char:EOLhyphen"/>ment and ſufficiencies were the onely inducement of their Countries Election, have been fain to ſit ſtill, and ſee things carried in this diſorderly confuſion (peremp<g ref="char:EOLhyphen"/>torily againſt their earneſt endeavours) and have not bin ſo much as askt their opinions in matters of greateſt concernment; but being unwilling to expoſe their Con<g ref="char:EOLhyphen"/>ſciences to ſo high a Guilt, have withdrawn themſelves as unvſefull Members of ſuch a Body.</item>
+               <pb n="12" facs="tcp:124231:8"/>
+               <item>4. To inſinuate a beliefe of their care to the Vulgar, They have perpetually, ſurmiſed terrible Jealouſies, which have produced no other effect, then a deſired ſuſpi<g ref="char:EOLhyphen"/>tion of the King, yet theſe offered upon moſt improba<g ref="char:EOLhyphen"/>ble conjectures, as every private Letter is ſufficient grounds to piece up their deſignes, or by ſuch Perſons whoſe private diſcontents, leade them to offer theſe high indignities to that ſacred Perſon, they were never wor<g ref="char:EOLhyphen"/>thy to ſerve in the meaneſt Office; and though their Lives were ſo notorious for their former extravagancies, they have by theſe ſuperfluous invectives found counte<g ref="char:EOLhyphen"/>nance, till preſuming upon their merits, which were none, except to abuſe the King, can be called deſert; That they have been given up to capine or ſome ſuch damna<g ref="char:EOLhyphen"/>ble ſin, that nature would never have pardoned, if vve had had no Law; Yet theſe Mens informations, ſuffici<g ref="char:EOLhyphen"/>ent grounds to traduce the King, theſe Letters moſt ne<g ref="char:EOLhyphen"/>ceſſary Animadverſions to leavie Forces, to maintaine the Kings Forts, Towns, and Magazines againſt Him, I, and in His own name to, as if they could derive that authority from Him, that has no power (according to your Ordinance) to leavie them in His owne Defence, though His Perſon is in never ſo apparant imminent danger; yet they for His good, and the good of the King<g ref="char:EOLhyphen"/>dome, can pretend to this Power, and beyond, yet that all is not of that infallability, let Mr. <hi>Pims</hi> Letter from Sir <hi>John Hotham</hi> witneſſe with me.</item>
+            </list>
+            <p>I have committed theſe few Obſervations, to the view of the Publique, finding ſo many bold Pamphlets (with ſo high impudence) fly at the Face of Majeſty unrepro<g ref="char:EOLhyphen"/>ved, and every corner ſtinks of this unclean Doctrine; yet ſince tis come to this height, that we muſt declare our
+<pb n="13" facs="tcp:124231:8"/>ſelves, or loſe our King,: wherein my purpoſe failes, my Life ſhall make good to my laſt Breath; but if Religi<g ref="char:EOLhyphen"/>on, Reaſon, and Law had not warranted ſo Juſt a cauſe, I ſhould never have adventured to cleare a Glaſſe to ſo foule a countenance: yet before I conclude, let me pro<g ref="char:EOLhyphen"/>poſe one Queſtion in Religion: Whether the Church was not in its purity in the Primi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive times; the World agrees they had in thoſe Dayes a King that was no Chri<g ref="char:EOLhyphen"/>ſtian? Whether Chriſt had not more power (then ever any can or dare pretend to ſince) to eclipſe that Regall Dignity, if it had been diſtructive to the Church? yet He refuſed the loweſt office of a Magiſtrate, <hi>But gave to</hi> Caeſar <hi>the things that were His,</hi> for when the young Man came to Him and ſaid, <hi>Lord command my Brother that he devide the Inheritance with me,</hi> He replies, <hi>Who made me a Ruler or a Judge amongſt you?</hi> But now, That we having a Chriſtian King, profeſſing by his unblemiſht Life, the ſame way to ſalvation with us, proteſting to conſerve our Liberties with his Life, to make ſuch an apparant difference, which may bethe occaſion of the effuſion of ſo much Chriſtian Blood, upon meere Jea<g ref="char:EOLhyphen"/>louſies, will be the moſt unheard of diſloyalty that can be committed to future Ages.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
